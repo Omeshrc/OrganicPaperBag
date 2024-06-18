@@ -11,3 +11,8 @@ To view the Low-Fidelity Prototype and the High-Fidelity Prototype: https://e3ya
 (You may have to adjust the zoom to the page, and change the method of 
 deliverable by the navigation on the left indicating the low-fidelity 
 prototype and the Landing page)
+### Tools used
+
+Axure RP 10 <br>
+Flaticon.com (Icons) <br>
+Looka.com (Logo)
