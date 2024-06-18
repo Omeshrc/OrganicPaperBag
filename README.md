@@ -6,7 +6,7 @@ Company Overview:
 OrganicPaperBag.lk specializes in producing environmentally friendly paper bags for a wide range of uses, prioritizing sustainability and eco-friendliness. The target audience includes businesses and brands in sectors like clothing, cosmetics, and events.
 ## Demo
 
-To view the Low-Fidelity Prototype and the High-Fidelity Prototype: https://w2t15c.axshare.com/
+To view the Low-Fidelity Prototype and the High-Fidelity Prototype: https://e3yarl.axshare.com/
 
 (You may have to adjust the zoom to the page, and change the method of 
 deliverable by the navigation on the left indicating the low-fidelity 
